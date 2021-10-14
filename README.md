@@ -4,6 +4,10 @@ Ranking NFL teams using a Real Basic Results-Only algorithm that just
 looks at the points scored for each team against each opponent in each
 game and how that compares to the other games the opponent played.
 
+-   [Strength of Schedule](#strength-of-schedule)
+-   [ReBaRO Rankings](#rebaro-rankings)
+-   [Future Schedules](#future-schedules)
+
 ### Strength of Schedule
 
 SoS based purely off the points scored and allowed by the opponents of
