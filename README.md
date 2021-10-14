@@ -2038,7 +2038,7 @@ Cincinnati Bengals
 </table>
 
 The Broncos have the hardest remaining schedule, including the strongest
-set of future offenses (see: Chiefs and Chargers). The Eagles will play
-against the softest set of future defenses. The Bengals have the easiest
+set of future offenses (see: Chiefs and Chargers). WFT will play against
+the hardest set of future defenses. The Bengals have the easiest
 remaining schedule; the Jets have the easiest slate of remaining
 offenses, while the Eagles will see the softest defenses.
