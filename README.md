@@ -41,23 +41,12 @@ SoS
 Tennessee Titans
 </td>
 <td style="text-align:center;">
-7.00
+5.00
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 2
-</td>
-<td style="text-align:center;">
-New York Giants
-</td>
-<td style="text-align:center;">
-4.50
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-3
 </td>
 <td style="text-align:center;">
 Arizona Cardinals
@@ -68,10 +57,10 @@ Arizona Cardinals
 </tr>
 <tr>
 <td style="text-align:left;">
-3
+2
 </td>
 <td style="text-align:center;">
-Los Angeles Chargers
+Cleveland Browns
 </td>
 <td style="text-align:center;">
 3.00
@@ -79,7 +68,29 @@ Los Angeles Chargers
 </tr>
 <tr>
 <td style="text-align:left;">
-3
+2
+</td>
+<td style="text-align:center;">
+Kansas City Chiefs
+</td>
+<td style="text-align:center;">
+3.00
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
+</td>
+<td style="text-align:center;">
+Pittsburgh Steelers
+</td>
+<td style="text-align:center;">
+3.00
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+2
 </td>
 <td style="text-align:center;">
 Seattle Seahawks
@@ -90,13 +101,13 @@ Seattle Seahawks
 </tr>
 <tr>
 <td style="text-align:left;">
-6
+7
 </td>
 <td style="text-align:center;">
-Kansas City Chiefs
+Baltimore Ravens
 </td>
 <td style="text-align:center;">
-2.75
+2.50
 </td>
 </tr>
 <tr>
@@ -104,10 +115,10 @@ Kansas City Chiefs
 7
 </td>
 <td style="text-align:center;">
-Chicago Bears
+Las Vegas Raiders
 </td>
 <td style="text-align:center;">
-2.00
+2.50
 </td>
 </tr>
 <tr>
@@ -115,43 +126,43 @@ Chicago Bears
 7
 </td>
 <td style="text-align:center;">
-Cleveland Browns
+Los Angeles Chargers
 </td>
 <td style="text-align:center;">
-2.00
+2.50
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-9
-</td>
-<td style="text-align:center;">
-New England Patriots
-</td>
-<td style="text-align:center;">
-1.75
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
+7
 </td>
 <td style="text-align:center;">
 Minnesota Vikings
 </td>
 <td style="text-align:center;">
-1.50
+2.50
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-11
+7
 </td>
 <td style="text-align:center;">
-Philadelphia Eagles
+New York Giants
 </td>
 <td style="text-align:center;">
-1.25
+2.50
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+12
+</td>
+<td style="text-align:center;">
+Houston Texans
+</td>
+<td style="text-align:center;">
+2.25
 </td>
 </tr>
 <tr>
@@ -162,18 +173,7 @@ Philadelphia Eagles
 New York Jets
 </td>
 <td style="text-align:center;">
-1.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13
-</td>
-<td style="text-align:center;">
-Miami Dolphins
-</td>
-<td style="text-align:center;">
-0.75
+2.25
 </td>
 </tr>
 <tr>
@@ -181,10 +181,10 @@ Miami Dolphins
 14
 </td>
 <td style="text-align:center;">
-Baltimore Ravens
+Chicago Bears
 </td>
 <td style="text-align:center;">
-0.50
+2.00
 </td>
 </tr>
 <tr>
@@ -192,10 +192,21 @@ Baltimore Ravens
 14
 </td>
 <td style="text-align:center;">
-Dallas Cowboys
+Indianapolis Colts
 </td>
 <td style="text-align:center;">
-0.50
+2.00
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+14
+</td>
+<td style="text-align:center;">
+Philadelphia Eagles
+</td>
+<td style="text-align:center;">
+2.00
 </td>
 </tr>
 <tr>
@@ -206,73 +217,62 @@ Dallas Cowboys
 Washington Football Team
 </td>
 <td style="text-align:center;">
-0.50
+2.00
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-17
+18
+</td>
+<td style="text-align:center;">
+Dallas Cowboys
+</td>
+<td style="text-align:center;">
+1.50
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+18
+</td>
+<td style="text-align:center;">
+Miami Dolphins
+</td>
+<td style="text-align:center;">
+1.50
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+20
+</td>
+<td style="text-align:center;">
+Cincinnati Bengals
+</td>
+<td style="text-align:center;">
+0.75
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+20
 </td>
 <td style="text-align:center;">
 Detroit Lions
 </td>
 <td style="text-align:center;">
-0.00
+0.75
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-17
+20
 </td>
 <td style="text-align:center;">
-Green Bay Packers
+San Francisco 49ers
 </td>
 <td style="text-align:center;">
-0.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-17
-</td>
-<td style="text-align:center;">
-Las Vegas Raiders
-</td>
-<td style="text-align:center;">
-0.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-17
-</td>
-<td style="text-align:center;">
-Pittsburgh Steelers
-</td>
-<td style="text-align:center;">
-0.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-21
-</td>
-<td style="text-align:center;">
-Indianapolis Colts
-</td>
-<td style="text-align:center;">
--0.75
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-22
-</td>
-<td style="text-align:center;">
-Tampa Bay Buccaneers
-</td>
-<td style="text-align:center;">
--1.00
+0.75
 </td>
 </tr>
 <tr>
@@ -280,26 +280,59 @@ Tampa Bay Buccaneers
 23
 </td>
 <td style="text-align:center;">
-Carolina Panthers
+Jacksonville Jaguars
 </td>
 <td style="text-align:center;">
--1.50
+0.50
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 24
+</td>
+<td style="text-align:center;">
+Green Bay Packers
+</td>
+<td style="text-align:center;">
+-1.00
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+25
 </td>
 <td style="text-align:center;">
 Buffalo Bills
 </td>
 <td style="text-align:center;">
--2.50
+-2.00
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-24
+25
+</td>
+<td style="text-align:center;">
+New England Patriots
+</td>
+<td style="text-align:center;">
+-2.00
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+27
+</td>
+<td style="text-align:center;">
+Tampa Bay Buccaneers
+</td>
+<td style="text-align:center;">
+-2.25
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+28
 </td>
 <td style="text-align:center;">
 Los Angeles Rams
@@ -310,7 +343,7 @@ Los Angeles Rams
 </tr>
 <tr>
 <td style="text-align:left;">
-26
+29
 </td>
 <td style="text-align:center;">
 Atlanta Falcons
@@ -321,21 +354,10 @@ Atlanta Falcons
 </tr>
 <tr>
 <td style="text-align:left;">
-26
+29
 </td>
 <td style="text-align:center;">
-Denver Broncos
-</td>
-<td style="text-align:center;">
--3.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-26
-</td>
-<td style="text-align:center;">
-Houston Texans
+Carolina Panthers
 </td>
 <td style="text-align:center;">
 -3.00
@@ -343,18 +365,7 @@ Houston Texans
 </tr>
 <tr>
 <td style="text-align:left;">
-26
-</td>
-<td style="text-align:center;">
-Jacksonville Jaguars
-</td>
-<td style="text-align:center;">
--3.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-26
+29
 </td>
 <td style="text-align:center;">
 New Orleans Saints
@@ -365,24 +376,13 @@ New Orleans Saints
 </tr>
 <tr>
 <td style="text-align:left;">
-26
-</td>
-<td style="text-align:center;">
-San Francisco 49ers
-</td>
-<td style="text-align:center;">
--3.00
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 32
 </td>
 <td style="text-align:center;">
-Cincinnati Bengals
+Denver Broncos
 </td>
 <td style="text-align:center;">
--4.00
+-3.50
 </td>
 </tr>
 </tbody>
@@ -434,19 +434,19 @@ ReBaRO Overall
 Buffalo Bills
 </td>
 <td style="text-align:right;">
-67%
+60%
 </td>
 <td style="text-align:right;">
--2.5 (24)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
-10.0 (2)
+10.8 (2)
 </td>
 <td style="text-align:right;">
-7.5 (2)
+4.2 (7)
 </td>
 <td style="text-align:right;">
-16.5
+15.5
 </td>
 </tr>
 <tr>
@@ -457,19 +457,19 @@ Buffalo Bills
 Arizona Cardinals
 </td>
 <td style="text-align:right;">
-80%
+82%
 </td>
 <td style="text-align:right;">
-3.0 (3)
+3.0 (2)
 </td>
 <td style="text-align:right;">
-5.8 (5)
+6.0 (5)
 </td>
 <td style="text-align:right;">
-9.0 (1)
+7.5 (1)
 </td>
 <td style="text-align:right;">
-13.2
+14.0
 </td>
 </tr>
 <tr>
@@ -477,22 +477,45 @@ Arizona Cardinals
 3
 </td>
 <td style="text-align:left;">
-Tennessee Titans
+Tampa Bay Buccaneers
 </td>
 <td style="text-align:right;">
-80%
+70%
 </td>
 <td style="text-align:right;">
-7.0 (1)
+-2.2 (27)
 </td>
 <td style="text-align:right;">
-4.2 (10)
+7.2 (3)
 </td>
 <td style="text-align:right;">
-2.2 (10)
+3.2 (8)
 </td>
 <td style="text-align:right;">
-10.5
+10.2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Green Bay Packers
+</td>
+<td style="text-align:right;">
+73%
+</td>
+<td style="text-align:right;">
+-1.0 (24)
+</td>
+<td style="text-align:right;">
+5.0 (8)
+</td>
+<td style="text-align:right;">
+6.0 (4)
+</td>
+<td style="text-align:right;">
+8.0
 </td>
 </tr>
 <tr>
@@ -503,70 +526,93 @@ Tennessee Titans
 Dallas Cowboys
 </td>
 <td style="text-align:right;">
-78%
+70%
 </td>
 <td style="text-align:right;">
-0.5 (14)
+1.5 (18)
 </td>
 <td style="text-align:right;">
-16.5 (1)
+12.5 (1)
 </td>
 <td style="text-align:right;">
-0.0 (16)
+1.5 (14)
 </td>
 <td style="text-align:right;">
-9.0
+8.0
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-5
+4
 </td>
 <td style="text-align:left;">
-Green Bay Packers
+Tennessee Titans
 </td>
 <td style="text-align:right;">
-80%
+73%
 </td>
 <td style="text-align:right;">
-0.0 (17)
+5.0 (1)
 </td>
 <td style="text-align:right;">
-0.5 (16)
+6.0 (5)
 </td>
 <td style="text-align:right;">
-4.8 (5)
+-2.0 (21)
 </td>
 <td style="text-align:right;">
-7.2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-6
-</td>
-<td style="text-align:left;">
-Tampa Bay Buccaneers
-</td>
-<td style="text-align:right;">
-67%
-</td>
-<td style="text-align:right;">
--1.0 (22)
-</td>
-<td style="text-align:right;">
-10.0 (2)
-</td>
-<td style="text-align:right;">
-0.0 (16)
-</td>
-<td style="text-align:right;">
-5.0
+8.0
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 7
+</td>
+<td style="text-align:left;">
+Kansas City Chiefs
+</td>
+<td style="text-align:right;">
+64%
+</td>
+<td style="text-align:right;">
+3.0 (2)
+</td>
+<td style="text-align:right;">
+3.0 (12)
+</td>
+<td style="text-align:right;">
+-0.5 (19)
+</td>
+<td style="text-align:right;">
+7.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+7
+</td>
+<td style="text-align:left;">
+New England Patriots
+</td>
+<td style="text-align:right;">
+64%
+</td>
+<td style="text-align:right;">
+-2.0 (25)
+</td>
+<td style="text-align:right;">
+-1.5 (21)
+</td>
+<td style="text-align:right;">
+5.5 (5)
+</td>
+<td style="text-align:right;">
+7.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
 </td>
 <td style="text-align:left;">
 Los Angeles Rams
@@ -575,13 +621,59 @@ Los Angeles Rams
 70%
 </td>
 <td style="text-align:right;">
--2.5 (24)
+-2.5 (28)
 </td>
 <td style="text-align:right;">
-5.0 (7)
+5.2 (7)
 </td>
 <td style="text-align:right;">
-1.0 (13)
+0.5 (17)
+</td>
+<td style="text-align:right;">
+6.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+9
+</td>
+<td style="text-align:left;">
+Indianapolis Colts
+</td>
+<td style="text-align:right;">
+55%
+</td>
+<td style="text-align:right;">
+2.0 (14)
+</td>
+<td style="text-align:right;">
+3.0 (12)
+</td>
+<td style="text-align:right;">
+1.5 (14)
+</td>
+<td style="text-align:right;">
+6.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+11
+</td>
+<td style="text-align:left;">
+San Francisco 49ers
+</td>
+<td style="text-align:right;">
+50%
+</td>
+<td style="text-align:right;">
+0.8 (20)
+</td>
+<td style="text-align:right;">
+2.0 (14)
+</td>
+<td style="text-align:right;">
+-2.0 (21)
 </td>
 <td style="text-align:right;">
 4.8
@@ -589,117 +681,25 @@ Los Angeles Rams
 </tr>
 <tr>
 <td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-Kansas City Chiefs
-</td>
-<td style="text-align:right;">
-60%
-</td>
-<td style="text-align:right;">
-2.8 (6)
-</td>
-<td style="text-align:right;">
-5.2 (6)
-</td>
-<td style="text-align:right;">
--2.0 (22)
-</td>
-<td style="text-align:right;">
-4.2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-8
-</td>
-<td style="text-align:left;">
-New England Patriots
-</td>
-<td style="text-align:right;">
-60%
-</td>
-<td style="text-align:right;">
-1.8 (9)
-</td>
-<td style="text-align:right;">
-0.5 (16)
-</td>
-<td style="text-align:right;">
-3.5 (7)
-</td>
-<td style="text-align:right;">
-4.2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-Baltimore Ravens
-</td>
-<td style="text-align:right;">
-67%
-</td>
-<td style="text-align:right;">
-0.5 (14)
-</td>
-<td style="text-align:right;">
-6.0 (4)
-</td>
-<td style="text-align:right;">
--5.0 (25)
-</td>
-<td style="text-align:right;">
-3.5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-Cincinnati Bengals
-</td>
-<td style="text-align:right;">
-56%
-</td>
-<td style="text-align:right;">
--4.0 (32)
-</td>
-<td style="text-align:right;">
-4.5 (9)
-</td>
-<td style="text-align:right;">
--1.0 (21)
-</td>
-<td style="text-align:right;">
-3.5
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
 12
 </td>
 <td style="text-align:left;">
-San Francisco 49ers
+Los Angeles Chargers
 </td>
 <td style="text-align:right;">
-44%
+60%
 </td>
 <td style="text-align:right;">
--3.0 (26)
+2.5 (7)
 </td>
 <td style="text-align:right;">
-1.0 (14)
+4.0 (11)
 </td>
 <td style="text-align:right;">
--5.0 (25)
+1.8 (13)
 </td>
 <td style="text-align:right;">
-3.0
+4.5
 </td>
 </tr>
 <tr>
@@ -710,19 +710,19 @@ San Francisco 49ers
 Minnesota Vikings
 </td>
 <td style="text-align:right;">
-44%
+50%
 </td>
 <td style="text-align:right;">
-1.5 (10)
+2.5 (7)
 </td>
 <td style="text-align:right;">
-3.5 (11)
+6.5 (4)
 </td>
 <td style="text-align:right;">
--0.5 (19)
+-2.0 (21)
 </td>
 <td style="text-align:right;">
-3.0
+4.5
 </td>
 </tr>
 <tr>
@@ -730,19 +730,42 @@ Minnesota Vikings
 14
 </td>
 <td style="text-align:left;">
-Indianapolis Colts
+Cincinnati Bengals
 </td>
 <td style="text-align:right;">
-50%
+60%
 </td>
 <td style="text-align:right;">
--0.8 (21)
+0.8 (20)
 </td>
 <td style="text-align:right;">
-1.5 (13)
+5.0 (8)
 </td>
 <td style="text-align:right;">
-0.5 (14)
+2.5 (10)
+</td>
+<td style="text-align:right;">
+4.2
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+15
+</td>
+<td style="text-align:left;">
+Philadelphia Eagles
+</td>
+<td style="text-align:right;">
+45%
+</td>
+<td style="text-align:right;">
+2.0 (14)
+</td>
+<td style="text-align:right;">
+2.0 (14)
+</td>
+<td style="text-align:right;">
+2.0 (12)
 </td>
 <td style="text-align:right;">
 1.0
@@ -750,94 +773,71 @@ Indianapolis Colts
 </tr>
 <tr>
 <td style="text-align:left;">
-14
+16
 </td>
 <td style="text-align:left;">
 New Orleans Saints
 </td>
 <td style="text-align:right;">
-56%
+50%
 </td>
 <td style="text-align:right;">
--3.0 (26)
+-3.0 (29)
 </td>
 <td style="text-align:right;">
--2.5 (22)
+1.8 (16)
 </td>
 <td style="text-align:right;">
-2.5 (9)
+1.0 (16)
 </td>
 <td style="text-align:right;">
-1.0
+0.5
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-16
-</td>
-<td style="text-align:left;">
-Las Vegas Raiders
-</td>
-<td style="text-align:right;">
-56%
-</td>
-<td style="text-align:right;">
-0.0 (17)
-</td>
-<td style="text-align:right;">
-5.0 (7)
-</td>
-<td style="text-align:right;">
--4.5 (24)
-</td>
-<td style="text-align:right;">
-0.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16
-</td>
-<td style="text-align:left;">
-Los Angeles Chargers
-</td>
-<td style="text-align:right;">
-56%
-</td>
-<td style="text-align:right;">
-3.0 (3)
-</td>
-<td style="text-align:right;">
-3.0 (12)
-</td>
-<td style="text-align:right;">
-0.0 (16)
-</td>
-<td style="text-align:right;">
-0.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16
+17
 </td>
 <td style="text-align:left;">
 Seattle Seahawks
 </td>
 <td style="text-align:right;">
-33%
+30%
 </td>
 <td style="text-align:right;">
-3.0 (3)
+3.0 (2)
 </td>
 <td style="text-align:right;">
--1.5 (20)
+-4.5 (24)
 </td>
 <td style="text-align:right;">
-2.0 (11)
+7.2 (2)
 </td>
 <td style="text-align:right;">
 0.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+18
+</td>
+<td style="text-align:left;">
+Baltimore Ravens
+</td>
+<td style="text-align:right;">
+70%
+</td>
+<td style="text-align:right;">
+2.5 (7)
+</td>
+<td style="text-align:right;">
+5.0 (8)
+</td>
+<td style="text-align:right;">
+-2.5 (24)
+</td>
+<td style="text-align:right;">
+-1.0
 </td>
 </tr>
 <tr>
@@ -848,47 +848,24 @@ Seattle Seahawks
 Cleveland Browns
 </td>
 <td style="text-align:right;">
-50%
+55%
 </td>
 <td style="text-align:right;">
-2.0 (7)
+3.0 (2)
 </td>
 <td style="text-align:right;">
-0.2 (18)
+1.0 (17)
 </td>
 <td style="text-align:right;">
--0.5 (19)
+7.0 (3)
 </td>
 <td style="text-align:right;">
--2.5
+-2.0
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
 20
-</td>
-<td style="text-align:left;">
-Philadelphia Eagles
-</td>
-<td style="text-align:right;">
-40%
-</td>
-<td style="text-align:right;">
-1.2 (11)
-</td>
-<td style="text-align:right;">
-0.8 (15)
-</td>
-<td style="text-align:right;">
-3.5 (7)
-</td>
-<td style="text-align:right;">
--3.2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-21
 </td>
 <td style="text-align:left;">
 Denver Broncos
@@ -897,16 +874,39 @@ Denver Broncos
 50%
 </td>
 <td style="text-align:right;">
--3.0 (26)
+-3.5 (32)
 </td>
 <td style="text-align:right;">
--3.8 (24)
+-4.8 (25)
 </td>
 <td style="text-align:right;">
-7.2 (3)
+5.0 (6)
 </td>
 <td style="text-align:right;">
--3.8
+-2.8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+21
+</td>
+<td style="text-align:left;">
+Pittsburgh Steelers
+</td>
+<td style="text-align:right;">
+50%
+</td>
+<td style="text-align:right;">
+3.0 (2)
+</td>
+<td style="text-align:right;">
+0.0 (18)
+</td>
+<td style="text-align:right;">
+-1.0 (20)
+</td>
+<td style="text-align:right;">
+-4.0
 </td>
 </tr>
 <tr>
@@ -914,22 +914,22 @@ Denver Broncos
 22
 </td>
 <td style="text-align:left;">
-Carolina Panthers
+Chicago Bears
 </td>
 <td style="text-align:right;">
-50%
+30%
 </td>
 <td style="text-align:right;">
--1.5 (23)
+2.0 (14)
 </td>
 <td style="text-align:right;">
--8.0 (29)
+-6.5 (26)
 </td>
 <td style="text-align:right;">
-3.8 (6)
+-3.2 (25)
 </td>
 <td style="text-align:right;">
--5.5
+-4.5
 </td>
 </tr>
 <tr>
@@ -940,19 +940,19 @@ Carolina Panthers
 Washington Football Team
 </td>
 <td style="text-align:right;">
-33%
+40%
 </td>
 <td style="text-align:right;">
-0.5 (14)
+2.0 (14)
 </td>
 <td style="text-align:right;">
--2.5 (22)
+0.0 (18)
 </td>
 <td style="text-align:right;">
--7.0 (28)
+-3.8 (27)
 </td>
 <td style="text-align:right;">
--5.5
+-4.5
 </td>
 </tr>
 <tr>
@@ -960,165 +960,27 @@ Washington Football Team
 24
 </td>
 <td style="text-align:left;">
-Chicago Bears
+Las Vegas Raiders
 </td>
 <td style="text-align:right;">
-33%
+50%
 </td>
 <td style="text-align:right;">
-2.0 (7)
+2.5 (7)
 </td>
 <td style="text-align:right;">
--7.0 (27)
+-1.0 (20)
 </td>
 <td style="text-align:right;">
--7.0 (28)
+-5.5 (29)
 </td>
 <td style="text-align:right;">
--7.0
+-4.8
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-24
-</td>
-<td style="text-align:left;">
-Pittsburgh Steelers
-</td>
-<td style="text-align:right;">
-56%
-</td>
-<td style="text-align:right;">
-0.0 (17)
-</td>
-<td style="text-align:right;">
-0.0 (19)
-</td>
-<td style="text-align:right;">
-1.5 (12)
-</td>
-<td style="text-align:right;">
--7.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-26
-</td>
-<td style="text-align:left;">
-Miami Dolphins
-</td>
-<td style="text-align:right;">
-30%
-</td>
-<td style="text-align:right;">
-0.8 (13)
-</td>
-<td style="text-align:right;">
--8.2 (31)
-</td>
-<td style="text-align:right;">
-0.5 (14)
-</td>
-<td style="text-align:right;">
--7.2
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-27
-</td>
-<td style="text-align:left;">
-New York Giants
-</td>
-<td style="text-align:right;">
-33%
-</td>
-<td style="text-align:right;">
-4.5 (2)
-</td>
-<td style="text-align:right;">
--4.0 (25)
-</td>
-<td style="text-align:right;">
-5.5 (4)
-</td>
-<td style="text-align:right;">
--8.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-28
-</td>
-<td style="text-align:left;">
-Jacksonville Jaguars
-</td>
-<td style="text-align:right;">
-22%
-</td>
-<td style="text-align:right;">
--3.0 (26)
-</td>
-<td style="text-align:right;">
--8.0 (29)
-</td>
-<td style="text-align:right;">
--3.0 (23)
-</td>
-<td style="text-align:right;">
--9.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-29
-</td>
-<td style="text-align:left;">
-Atlanta Falcons
-</td>
-<td style="text-align:right;">
-44%
-</td>
-<td style="text-align:right;">
--3.0 (26)
-</td>
-<td style="text-align:right;">
--1.5 (20)
-</td>
-<td style="text-align:right;">
--10.0 (32)
-</td>
-<td style="text-align:right;">
--10.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-30
-</td>
-<td style="text-align:left;">
-New York Jets
-</td>
-<td style="text-align:right;">
-22%
-</td>
-<td style="text-align:right;">
-1.0 (12)
-</td>
-<td style="text-align:right;">
--7.0 (27)
-</td>
-<td style="text-align:right;">
--7.0 (28)
-</td>
-<td style="text-align:right;">
--12.0
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-31
+25
 </td>
 <td style="text-align:left;">
 Detroit Lions
@@ -1127,16 +989,154 @@ Detroit Lions
 0%
 </td>
 <td style="text-align:right;">
-0.0 (17)
+0.8 (20)
 </td>
 <td style="text-align:right;">
--6.5 (26)
+-8.2 (32)
 </td>
 <td style="text-align:right;">
--7.0 (28)
+-5.5 (29)
 </td>
 <td style="text-align:right;">
--12.5
+-6.8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+26
+</td>
+<td style="text-align:left;">
+Carolina Panthers
+</td>
+<td style="text-align:right;">
+45%
+</td>
+<td style="text-align:right;">
+-3.0 (29)
+</td>
+<td style="text-align:right;">
+-8.0 (30)
+</td>
+<td style="text-align:right;">
+3.0 (9)
+</td>
+<td style="text-align:right;">
+-7.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+27
+</td>
+<td style="text-align:left;">
+Jacksonville Jaguars
+</td>
+<td style="text-align:right;">
+20%
+</td>
+<td style="text-align:right;">
+0.5 (23)
+</td>
+<td style="text-align:right;">
+-7.2 (28)
+</td>
+<td style="text-align:right;">
+-3.5 (26)
+</td>
+<td style="text-align:right;">
+-7.8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+28
+</td>
+<td style="text-align:left;">
+Miami Dolphins
+</td>
+<td style="text-align:right;">
+36%
+</td>
+<td style="text-align:right;">
+1.5 (18)
+</td>
+<td style="text-align:right;">
+-8.0 (30)
+</td>
+<td style="text-align:right;">
+0.0 (18)
+</td>
+<td style="text-align:right;">
+-8.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+29
+</td>
+<td style="text-align:left;">
+New York Giants
+</td>
+<td style="text-align:right;">
+30%
+</td>
+<td style="text-align:right;">
+2.5 (7)
+</td>
+<td style="text-align:right;">
+-4.0 (22)
+</td>
+<td style="text-align:right;">
+2.5 (10)
+</td>
+<td style="text-align:right;">
+-8.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+30
+</td>
+<td style="text-align:left;">
+Houston Texans
+</td>
+<td style="text-align:right;">
+20%
+</td>
+<td style="text-align:right;">
+2.2 (12)
+</td>
+<td style="text-align:right;">
+-7.5 (29)
+</td>
+<td style="text-align:right;">
+-4.0 (28)
+</td>
+<td style="text-align:right;">
+-10.8
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+30
+</td>
+<td style="text-align:left;">
+Atlanta Falcons
+</td>
+<td style="text-align:right;">
+40%
+</td>
+<td style="text-align:right;">
+-3.0 (29)
+</td>
+<td style="text-align:right;">
+-4.2 (23)
+</td>
+<td style="text-align:right;">
+-6.0 (31)
+</td>
+<td style="text-align:right;">
+-10.8
 </td>
 </tr>
 <tr>
@@ -1144,22 +1144,22 @@ Detroit Lions
 32
 </td>
 <td style="text-align:left;">
-Houston Texans
+New York Jets
 </td>
 <td style="text-align:right;">
-11%
+20%
 </td>
 <td style="text-align:right;">
--3.0 (26)
+2.2 (12)
 </td>
 <td style="text-align:right;">
--12.0 (32)
+-7.0 (27)
 </td>
 <td style="text-align:right;">
--5.0 (25)
+-7.0 (32)
 </td>
 <td style="text-align:right;">
--14.0
+-13.0
 </td>
 </tr>
 </tbody>
@@ -1198,19 +1198,19 @@ Future Opp Win%
 1
 </td>
 <td style="text-align:left;">
-Indianapolis Colts
+New England Patriots
 </td>
 <td style="text-align:right;">
-5.0 (1)
+4.5 (6)
 </td>
 <td style="text-align:right;">
-0.0 (16)
+0.8 (18)
 </td>
 <td style="text-align:right;">
-4.25
+7.00
 </td>
 <td style="text-align:right;">
-52%
+51%
 </td>
 </tr>
 <tr>
@@ -1218,39 +1218,39 @@ Indianapolis Colts
 2
 </td>
 <td style="text-align:left;">
-Cleveland Browns
+Jacksonville Jaguars
 </td>
 <td style="text-align:right;">
-4.5 (2)
+-1.5 (24)
 </td>
 <td style="text-align:right;">
--4.5 (31)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
-3.50
+6.00
 </td>
 <td style="text-align:right;">
-55%
+49%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-2
+3
 </td>
 <td style="text-align:left;">
-Pittsburgh Steelers
+Carolina Panthers
 </td>
 <td style="text-align:right;">
-4.4 (4)
+4.5 (6)
 </td>
 <td style="text-align:right;">
--0.8 (24)
+2.1 (6)
 </td>
 <td style="text-align:right;">
-3.50
+5.38
 </td>
 <td style="text-align:right;">
-60%
+54%
 </td>
 </tr>
 <tr>
@@ -1261,16 +1261,16 @@ Pittsburgh Steelers
 Chicago Bears
 </td>
 <td style="text-align:right;">
-2.0 (8)
+5.0 (1)
 </td>
 <td style="text-align:right;">
-0.8 (6)
+2.5 (3)
 </td>
 <td style="text-align:right;">
-3.00
+4.50
 </td>
 <td style="text-align:right;">
-48%
+45%
 </td>
 </tr>
 <tr>
@@ -1278,19 +1278,59 @@ Chicago Bears
 4
 </td>
 <td style="text-align:left;">
-Green Bay Packers
+Denver Broncos
 </td>
 <td style="text-align:right;">
-3.5 (5)
+3.0 (8)
 </td>
 <td style="text-align:right;">
--0.5 (22)
+-0.5 (20)
 </td>
 <td style="text-align:right;">
-3.00
+4.50
+</td>
+<td style="text-align:right;">
+51%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Houston Texans
+</td>
+<td style="text-align:right;">
+2.0 (11)
+</td>
+<td style="text-align:right;">
+-2.0 (25)
+</td>
+<td style="text-align:right;">
+4.50
 </td>
 <td style="text-align:right;">
 44%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+4
+</td>
+<td style="text-align:left;">
+Las Vegas Raiders
+</td>
+<td style="text-align:right;">
+3.0 (8)
+</td>
+<td style="text-align:right;">
+1.5 (10)
+</td>
+<td style="text-align:right;">
+4.50
+</td>
+<td style="text-align:right;">
+56%
 </td>
 </tr>
 <tr>
@@ -1301,56 +1341,36 @@ Green Bay Packers
 Los Angeles Rams
 </td>
 <td style="text-align:right;">
-1.0 (12)
+5.0 (1)
 </td>
 <td style="text-align:right;">
--0.5 (22)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
-3.00
+4.50
 </td>
 <td style="text-align:right;">
-53%
+54%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-7
+9
 </td>
 <td style="text-align:left;">
-Atlanta Falcons
+Pittsburgh Steelers
 </td>
 <td style="text-align:right;">
--1.0 (24)
+5.0 (1)
 </td>
 <td style="text-align:right;">
-1.2 (5)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
-2.00
+4.25
 </td>
 <td style="text-align:right;">
-46%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-7
-</td>
-<td style="text-align:left;">
-Jacksonville Jaguars
-</td>
-<td style="text-align:right;">
-0.8 (14)
-</td>
-<td style="text-align:right;">
--2.2 (29)
-</td>
-<td style="text-align:right;">
-2.00
-</td>
-<td style="text-align:right;">
-48%
+63%
 </td>
 </tr>
 <tr>
@@ -1361,33 +1381,53 @@ Jacksonville Jaguars
 San Francisco 49ers
 </td>
 <td style="text-align:right;">
-1.0 (12)
+5.0 (1)
 </td>
 <td style="text-align:right;">
--0.8 (24)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
-1.50
+4.25
 </td>
 <td style="text-align:right;">
-45%
+49%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-10
+11
 </td>
 <td style="text-align:left;">
-Buffalo Bills
+Arizona Cardinals
 </td>
 <td style="text-align:right;">
--0.5 (20)
+-0.8 (22)
 </td>
 <td style="text-align:right;">
-1.5 (4)
+1.0 (14)
 </td>
 <td style="text-align:right;">
-1.00
+3.00
+</td>
+<td style="text-align:right;">
+42%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+12
+</td>
+<td style="text-align:left;">
+Indianapolis Colts
+</td>
+<td style="text-align:right;">
+-1.2 (23)
+</td>
+<td style="text-align:right;">
+-0.1 (19)
+</td>
+<td style="text-align:right;">
+1.12
 </td>
 <td style="text-align:right;">
 51%
@@ -1395,82 +1435,42 @@ Buffalo Bills
 </tr>
 <tr>
 <td style="text-align:left;">
-10
+13
 </td>
 <td style="text-align:left;">
-Carolina Panthers
+New York Giants
 </td>
 <td style="text-align:right;">
--1.5 (25)
-</td>
-<td style="text-align:right;">
-0.0 (16)
-</td>
-<td style="text-align:right;">
-1.00
-</td>
-<td style="text-align:right;">
-52%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10
-</td>
-<td style="text-align:left;">
-New England Patriots
+2.0 (11)
 </td>
 <td style="text-align:right;">
 1.5 (10)
 </td>
 <td style="text-align:right;">
-0.5 (8)
+1.00
+</td>
+<td style="text-align:right;">
+47%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+13
+</td>
+<td style="text-align:left;">
+Washington Football Team
+</td>
+<td style="text-align:right;">
+2.0 (11)
+</td>
+<td style="text-align:right;">
+2.0 (8)
 </td>
 <td style="text-align:right;">
 1.00
 </td>
 <td style="text-align:right;">
-51%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13
-</td>
-<td style="text-align:left;">
-Houston Texans
-</td>
-<td style="text-align:right;">
-1.2 (11)
-</td>
-<td style="text-align:right;">
-0.2 (11)
-</td>
-<td style="text-align:right;">
-0.50
-</td>
-<td style="text-align:right;">
-48%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13
-</td>
-<td style="text-align:left;">
-Las Vegas Raiders
-</td>
-<td style="text-align:right;">
-2.2 (7)
-</td>
-<td style="text-align:right;">
--0.2 (21)
-</td>
-<td style="text-align:right;">
-0.50
-</td>
-<td style="text-align:right;">
-54%
+49%
 </td>
 </tr>
 <tr>
@@ -1478,16 +1478,16 @@ Las Vegas Raiders
 15
 </td>
 <td style="text-align:left;">
-Arizona Cardinals
+Atlanta Falcons
 </td>
 <td style="text-align:right;">
--1.5 (25)
+1.8 (15)
 </td>
 <td style="text-align:right;">
-0.5 (8)
+1.0 (14)
 </td>
 <td style="text-align:right;">
-0.00
+0.50
 </td>
 <td style="text-align:right;">
 42%
@@ -1498,56 +1498,76 @@ Arizona Cardinals
 15
 </td>
 <td style="text-align:left;">
+Buffalo Bills
+</td>
+<td style="text-align:right;">
+-1.5 (24)
+</td>
+<td style="text-align:right;">
+3.0 (2)
+</td>
+<td style="text-align:right;">
+0.50
+</td>
+<td style="text-align:right;">
+50%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+15
+</td>
+<td style="text-align:left;">
+New York Jets
+</td>
+<td style="text-align:right;">
+1.8 (15)
+</td>
+<td style="text-align:right;">
+1.0 (14)
+</td>
+<td style="text-align:right;">
+0.50
+</td>
+<td style="text-align:right;">
+43%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+18
+</td>
+<td style="text-align:left;">
+Detroit Lions
+</td>
+<td style="text-align:right;">
+-4.2 (29)
+</td>
+<td style="text-align:right;">
+5.0 (1)
+</td>
+<td style="text-align:right;">
+0.00
+</td>
+<td style="text-align:right;">
+51%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+19
+</td>
+<td style="text-align:left;">
 Cincinnati Bengals
 </td>
 <td style="text-align:right;">
-2.0 (8)
+2.0 (11)
 </td>
 <td style="text-align:right;">
--1.2 (26)
+-0.5 (20)
 </td>
 <td style="text-align:right;">
-0.00
-</td>
-<td style="text-align:right;">
-55%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-15
-</td>
-<td style="text-align:left;">
-Denver Broncos
-</td>
-<td style="text-align:right;">
-4.5 (2)
-</td>
-<td style="text-align:right;">
--2.0 (27)
-</td>
-<td style="text-align:right;">
-0.00
-</td>
-<td style="text-align:right;">
-49%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-15
-</td>
-<td style="text-align:left;">
-Kansas City Chiefs
-</td>
-<td style="text-align:right;">
-3.0 (6)
-</td>
-<td style="text-align:right;">
-0.0 (16)
-</td>
-<td style="text-align:right;">
-0.00
+-1.00
 </td>
 <td style="text-align:right;">
 57%
@@ -1558,39 +1578,19 @@ Kansas City Chiefs
 19
 </td>
 <td style="text-align:left;">
-Detroit Lions
+Cleveland Browns
 </td>
 <td style="text-align:right;">
--0.6 (21)
+5.0 (1)
 </td>
 <td style="text-align:right;">
-0.8 (6)
+-1.8 (24)
 </td>
 <td style="text-align:right;">
--1.25
+-1.00
 </td>
 <td style="text-align:right;">
-52%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-19
-</td>
-<td style="text-align:left;">
-Seattle Seahawks
-</td>
-<td style="text-align:right;">
--0.8 (22)
-</td>
-<td style="text-align:right;">
--5.0 (32)
-</td>
-<td style="text-align:right;">
--1.25
-</td>
-<td style="text-align:right;">
-44%
+62%
 </td>
 </tr>
 <tr>
@@ -1598,39 +1598,39 @@ Seattle Seahawks
 21
 </td>
 <td style="text-align:left;">
-Dallas Cowboys
+Green Bay Packers
 </td>
 <td style="text-align:right;">
--0.9 (23)
+3.0 (8)
 </td>
 <td style="text-align:right;">
-0.2 (11)
+-2.2 (31)
 </td>
 <td style="text-align:right;">
--1.62
+-1.50
 </td>
 <td style="text-align:right;">
-49%
+46%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-21
+22
 </td>
 <td style="text-align:left;">
-Washington Football Team
+Baltimore Ravens
 </td>
 <td style="text-align:right;">
-0.8 (14)
+1.0 (17)
 </td>
 <td style="text-align:right;">
-2.8 (2)
+2.5 (3)
 </td>
 <td style="text-align:right;">
--1.62
+-2.00
 </td>
 <td style="text-align:right;">
-51%
+59%
 </td>
 </tr>
 <tr>
@@ -1638,39 +1638,39 @@ Washington Football Team
 23
 </td>
 <td style="text-align:left;">
-Minnesota Vikings
+Kansas City Chiefs
 </td>
 <td style="text-align:right;">
-0.2 (17)
+-0.5 (21)
 </td>
 <td style="text-align:right;">
--2.0 (27)
+2.1 (6)
 </td>
 <td style="text-align:right;">
--2.00
+-2.75
 </td>
 <td style="text-align:right;">
-50%
+53%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-24
+23
 </td>
 <td style="text-align:left;">
-Baltimore Ravens
+Los Angeles Chargers
 </td>
 <td style="text-align:right;">
-0.2 (17)
+-4.0 (28)
 </td>
 <td style="text-align:right;">
-0.2 (11)
+2.5 (3)
 </td>
 <td style="text-align:right;">
--2.50
+-2.75
 </td>
 <td style="text-align:right;">
-56%
+46%
 </td>
 </tr>
 <tr>
@@ -1678,13 +1678,13 @@ Baltimore Ravens
 25
 </td>
 <td style="text-align:left;">
-New York Giants
+Miami Dolphins
 </td>
 <td style="text-align:right;">
-0.8 (14)
+-2.8 (27)
 </td>
 <td style="text-align:right;">
-0.0 (16)
+1.8 (9)
 </td>
 <td style="text-align:right;">
 -3.25
@@ -1698,19 +1698,19 @@ New York Giants
 26
 </td>
 <td style="text-align:left;">
-Los Angeles Chargers
+Minnesota Vikings
 </td>
 <td style="text-align:right;">
--1.9 (27)
+0.0 (18)
 </td>
 <td style="text-align:right;">
-0.2 (11)
+-2.0 (25)
 </td>
 <td style="text-align:right;">
--3.75
+-4.00
 </td>
 <td style="text-align:right;">
-46%
+43%
 </td>
 </tr>
 <tr>
@@ -1718,36 +1718,56 @@ Los Angeles Chargers
 27
 </td>
 <td style="text-align:left;">
-New Orleans Saints
+Dallas Cowboys
 </td>
 <td style="text-align:right;">
--0.4 (19)
+0.0 (18)
 </td>
 <td style="text-align:right;">
-0.2 (11)
+1.0 (14)
 </td>
 <td style="text-align:right;">
--4.38
+-4.50
 </td>
 <td style="text-align:right;">
-50%
+48%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-28
+27
 </td>
 <td style="text-align:left;">
-New York Jets
+Seattle Seahawks
 </td>
 <td style="text-align:right;">
--5.2 (31)
+0.0 (18)
 </td>
 <td style="text-align:right;">
-0.5 (8)
+-3.2 (32)
 </td>
 <td style="text-align:right;">
--5.25
+-4.50
+</td>
+<td style="text-align:right;">
+42%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+29
+</td>
+<td style="text-align:left;">
+Tennessee Titans
+</td>
+<td style="text-align:right;">
+-4.4 (32)
+</td>
+<td style="text-align:right;">
+-1.5 (23)
+</td>
+<td style="text-align:right;">
+-5.88
 </td>
 <td style="text-align:right;">
 40%
@@ -1755,82 +1775,62 @@ New York Jets
 </tr>
 <tr>
 <td style="text-align:left;">
-29
-</td>
-<td style="text-align:left;">
-Miami Dolphins
-</td>
-<td style="text-align:right;">
--4.0 (30)
-</td>
-<td style="text-align:right;">
-2.5 (3)
-</td>
-<td style="text-align:right;">
--5.50
-</td>
-<td style="text-align:right;">
-46%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-29
+30
 </td>
 <td style="text-align:left;">
 Philadelphia Eagles
 </td>
 <td style="text-align:right;">
--2.5 (28)
+-2.0 (26)
 </td>
 <td style="text-align:right;">
-0.0 (16)
+-1.1 (22)
 </td>
 <td style="text-align:right;">
--5.50
+-6.50
 </td>
 <td style="text-align:right;">
-41%
+38%
 </td>
 </tr>
 <tr>
 <td style="text-align:left;">
-29
+31
+</td>
+<td style="text-align:left;">
+New Orleans Saints
+</td>
+<td style="text-align:right;">
+-4.2 (29)
+</td>
+<td style="text-align:right;">
+1.5 (10)
+</td>
+<td style="text-align:right;">
+-7.00
+</td>
+<td style="text-align:right;">
+49%
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+31
 </td>
 <td style="text-align:left;">
 Tampa Bay Buccaneers
 </td>
 <td style="text-align:right;">
--3.2 (29)
+-4.2 (29)
 </td>
 <td style="text-align:right;">
-3.1 (1)
+1.5 (10)
 </td>
 <td style="text-align:right;">
--5.50
+-7.00
 </td>
 <td style="text-align:right;">
-46%
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-32
-</td>
-<td style="text-align:left;">
-Tennessee Titans
-</td>
-<td style="text-align:right;">
--8.0 (32)
-</td>
-<td style="text-align:right;">
--3.0 (30)
-</td>
-<td style="text-align:right;">
--7.25
-</td>
-<td style="text-align:right;">
-33%
+45%
 </td>
 </tr>
 </tbody>
